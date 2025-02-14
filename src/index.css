@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* index.css or component specific styles */
+html, body {
+  @apply h-full w-full;
+}
+
