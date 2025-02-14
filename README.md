@@ -48,8 +48,3 @@ Your site should now be running on http://localhost:3000.
 ## Contributions
 
 Feel free to fork this repository and create pull requests for any features or fixes you'd like to contribute.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
